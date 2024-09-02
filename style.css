@@ -13,7 +13,7 @@
   z-index: 1;
   justify-content: center;
 }
-
+/* --------------------------- */
 .circle {
   width: 120px;
   height: 120px;
@@ -23,9 +23,9 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
 }
-
+/* 
 .column {
   height: 100%;
   width: 1px;
@@ -142,7 +142,7 @@
   border: 1px solid dimgray;
   margin-top: -18.541px;
   margin-left: 57.063px;
-}
+} */
 
 /* 1------------------------------- */
 .star1 {
